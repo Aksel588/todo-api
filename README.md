@@ -8,6 +8,7 @@ Created by Aksel.
 
 ## Features
 
+
 - `net/http` (Go 1.22+ route patterns), `encoding/json`
 - `internal/` packages: `store` (concurrent in-memory map), `api` (handlers + router)
 - `GET /health` for load balancers and containers
